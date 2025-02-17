@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    background-color: #C7F9CC;
+    font-family: Didot, serif;
+    color:#22577A;
+    font-size: 20px;
+}
+h1{
+    color: #38A3A5;
+    font-size: 45px;
+}
+#restartButton{
+    background-color: #9CEAEF;
+    color:#07BEB8;
+    border: 3px solid #68D8D6;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 15px;
+}
+canvas{
+    border: 3px solid #57CC99;
+    background-color: #80ED99;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
